@@ -1,0 +1,25 @@
+{
+  "name": "rebound-exercises-m6-s2",
+  "version": "1.0.0",
+  "description": "Ejercicio de comprobación Modulo 6 sección 2. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instalación",
+    "modulos",
+    "fake",
+    "data",
+    "modularizacion",
+    "nodemon",
+    "nanoid"
+  ],
+  "author": "Daniel Bustos",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "@ngneat/falso": "^7.2.0",
+    "nanoid": "^5.0.7"
+  }
+}
